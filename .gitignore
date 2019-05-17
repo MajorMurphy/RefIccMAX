@@ -44,6 +44,8 @@ Build/XCode/libxml/*.h*
 # Xcode build files
 **/build
 **/xcuserdata
+**/DerivedData
+**/DataStore
 
 # copied code
 Tools/CmdLine/IccSpecSepToTiff/TiffImg.cpp
